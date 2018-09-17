@@ -1,0 +1,7 @@
+{
+  "name": "notapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
